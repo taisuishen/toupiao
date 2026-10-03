@@ -1,0 +1,11 @@
+{
+  "name": "toupiao",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "node dev-server.js"
+  },
+  "dependencies": {
+    "@upstash/redis": "^1.35.0"
+  }
+}
